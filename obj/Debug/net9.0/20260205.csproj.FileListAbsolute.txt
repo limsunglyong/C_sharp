@@ -1,0 +1,14 @@
+D:\roseWorks\programming\C#Test\20260205\obj\Debug\net9.0\20260205.GeneratedMSBuildEditorConfig.editorconfig
+D:\roseWorks\programming\C#Test\20260205\obj\Debug\net9.0\20260205.AssemblyInfoInputs.cache
+D:\roseWorks\programming\C#Test\20260205\obj\Debug\net9.0\20260205.AssemblyInfo.cs
+D:\roseWorks\programming\C#Test\20260205\obj\Debug\net9.0\20260205.csproj.CoreCompileInputs.cache
+D:\roseWorks\programming\C#Test\20260205\bin\Debug\net9.0\20260205.exe
+D:\roseWorks\programming\C#Test\20260205\bin\Debug\net9.0\20260205.deps.json
+D:\roseWorks\programming\C#Test\20260205\bin\Debug\net9.0\20260205.runtimeconfig.json
+D:\roseWorks\programming\C#Test\20260205\bin\Debug\net9.0\20260205.dll
+D:\roseWorks\programming\C#Test\20260205\bin\Debug\net9.0\20260205.pdb
+D:\roseWorks\programming\C#Test\20260205\obj\Debug\net9.0\20260205.dll
+D:\roseWorks\programming\C#Test\20260205\obj\Debug\net9.0\refint\20260205.dll
+D:\roseWorks\programming\C#Test\20260205\obj\Debug\net9.0\20260205.pdb
+D:\roseWorks\programming\C#Test\20260205\obj\Debug\net9.0\20260205.genruntimeconfig.cache
+D:\roseWorks\programming\C#Test\20260205\obj\Debug\net9.0\ref\20260205.dll
