@@ -10,9 +10,6 @@ class Program
         Console.WriteLine("Cat {0} : {1}", nero.Name, nero.Color);
 
         //이름, 색 수정
-        nero.Name = "Rui";
-        nero.Color = "Beige";
-        Console.WriteLine("Cat {0} : {1}", nero.Name, nero.Color);
 
         Cat meow = new Cat("Coco", "Black");
         Console.WriteLine("Cat {0} : {1}", meow.Name, meow.Color);
@@ -26,31 +23,32 @@ class Program
 class Cat
 {
     // 필드 선언
-    public string Name;
-    public string Color;
+    protected string _Name;
+    protected string _Color;
 
     // 생성자 - 초기화 코드
     public Cat()
     {
-        Name = "";
-        Color = "";
+        _Name = "";
+        _Color = "";
     }
 
     public Cat(string name, string color)
     {
-        Name = name;
-        Color = color;
+        _Name = name;
+        _Color = color;
     }
 
     public void setName(string name)
     {
-        Name = name;
+        _Name = name;
     }
 
     public void setColor(string color)
     {
-        Color = color;
+        _Color = color;
     }
 
-
+    public string Name => _Name;
+    public string Color => _Color;
 }
